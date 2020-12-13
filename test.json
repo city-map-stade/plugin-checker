@@ -1,0 +1,41 @@
+,
+        {
+            "pluginname": "Attachment Pages Redirect",
+            "url_ending": "attachment-pages-redirect"
+        },
+        {
+            "pluginname": "Borlabs Cookie",
+            "url_ending": "borlabs-cookie"
+        },
+        {
+            "pluginname": "Custom CSS & JS",
+            "url_ending": "custom-css-js"
+        },
+        {
+            "pluginname": "Disable Gutenberg",
+            "url_ending": "disable-gutenberg"
+        },
+        {
+            "pluginname": "Elementor",
+            "url_ending": "elementor"
+        },
+        {
+            "pluginname": "Elementor Pro",
+            "url_ending": "elementor-pro"
+        },
+        {
+            "pluginname": "eRecht24",
+            "url_ending": "erecht24"
+        },
+        {
+            "pluginname": "HT Mega",
+            "url_ending": "ht-mega-for-elementor"
+        },
+        {
+            "pluginname": "Wordfence",
+            "url_ending": "wordfence"
+        },
+        {
+            "pluginname": "WP Mail SMTP",
+            "url_ending": "wp-mail-smtp.2.4.0"
+        }

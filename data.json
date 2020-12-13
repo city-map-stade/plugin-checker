@@ -1,0 +1,32 @@
+{
+    "plugins": [
+        {
+            "pluginname": "All 404 Redirect to Homepage",
+            "url_ending": "all-404-redirect-to-homepage"
+        },
+        {
+            "pluginname": "Custom CSS & JS",
+            "url_ending": "custom-css-js"
+        },
+        {
+            "pluginname": "Disable Gutenberg",
+            "url_ending": "disable-gutenberg"
+        },
+        {
+            "pluginname": "Elementor",
+            "url_ending": "elementor"
+        },
+        {
+            "pluginname": "HT Mega",
+            "url_ending": "ht-mega-for-elementor"
+        },
+        {
+            "pluginname": "Wordfence",
+            "url_ending": "wordfence"
+        },
+        {
+            "pluginname": "WP Mail SMTP",
+            "url_ending": "wp-mail-smtp"
+        }
+    ]
+}
